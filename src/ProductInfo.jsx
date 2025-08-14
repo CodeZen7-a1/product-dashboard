@@ -18,6 +18,11 @@ const ProductInfo = () => {
         setProduct(foundProduct)
       }
     }
+
+
+
+
+    
     catch (error) {
       console.log(error)
     }
